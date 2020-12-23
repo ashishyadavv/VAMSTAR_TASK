@@ -7,7 +7,7 @@ document.onreadystatechange = () => {
 
     console.log(`PublicationData : ${publicationData}`)
     console.log(`Object : ${object}`)
-    console.log(`Bidding_data : ${publicationData}`)
+    console.log(`Bidding_data : ${bidding_data}`)
     console.log(`All links : ${links}`)
   };
 
