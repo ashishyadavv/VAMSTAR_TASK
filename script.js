@@ -1,5 +1,6 @@
-const publicationData=document.querySelector('.lbl-licitacao')
+
 document.onreadystatechange = () => {
+    const publicationData=document.querySelector('.lbl-licitacao')
     const object=document.querySelector('.lbl-licitacao')
     const bidding_data=document.querySelector('.lbl-licitacao')
     const links=document.querySelectorAll("a")
